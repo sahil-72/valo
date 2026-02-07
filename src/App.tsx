@@ -13,31 +13,31 @@ const App: React.FC = () => {
     {
       title: "Suniye my sweet Gajar... ❤️",
       message: "Main kaafi der se humare baare mein soch raha tha, aur mujhe aap se kuch dil ki baat kehni hai.",
-      img: "/assets/bubu_shy.png",
+      img: "assets/bubu_shy.png",
       btnText: "Bataiye kya baat hai? 🙈"
     },
     {
       title: "Aap mujhe boht cute lagte ho, Motu! ✨",
       message: "Aap kitni sexy, sundar aur pyaari hain... main hamesha sochta hoon ki main kitna lucky hoon ki aap jaisa koi meri life mein hai.",
-      img: "/assets/dudu_heart.png",
+      img: "assets/dudu_heart.png",
       btnText: "Acha jiii... (aur sunna hai) 🥺"
     },
     {
       title: "Main apke liye best hu",
       message: "Main aapke liye sab kuch karunga. Apke liye lays crispz launga, apko huggie karunga, kissi bhi karunga or vo sab bhi (ahm ahm) 😉",
-      img: "/assets/bubu_shy.png",
+      img: "assets/bubu_shy.png",
       btnText: "Sachi na? 👉👈"
     },
     {
       title: "Toh, Gajar... ❤️",
       message: "kya aap mere valentine banoge?? Motuuuuu bataoooo",
-      img: "/assets/dudu_heart.png",
+      img: "assets/dudu_heart.png",
       isProposal: true
     },
     {
       title: "YAYYYYY! Mere Motu ne HAAN keh di! ❤️",
       message: "Mujhe pata tha tum haan hi karogi, mere mai kuch baat to hai. Charismatic hi boht hu, haina meri shawty?",
-      img: "/assets/bubu_dudu_hug.png",
+      img: "assets/bubu_dudu_hug.png",
       isSuccess: true
     }
   ];
